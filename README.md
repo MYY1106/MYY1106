@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MYY1106
+# 👋 Hi, I’m MYY
 A junior web dev.
 
  - 👀 I’m a RedRocker.
